@@ -1,0 +1,41 @@
+.info{
+    float: right;
+    width: 80%;
+    margin-right: 20px;
+    padding-top: 40px;
+}
+.info div{
+    width: 100%;
+    float: left;
+}
+
+.info img{
+    float: left;
+    display: block;
+    width: 55%;
+}
+
+.info ul{
+    float: left;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    width: 40%;
+}
+
+.info ul li{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 0 24px;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 80px;
+    text-align: center;
+    border-radius: 50%;
+    background: #333;
+    color: #fff;
+}
+
+.info ul li a{
+    color: #fff;
+}

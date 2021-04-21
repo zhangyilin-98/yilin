@@ -1,0 +1,56 @@
+.main{
+    display: none;
+}
+
+.nav .title{
+    width:200px;
+    height: 100%;
+    float: left;
+    margin-left: 13%;
+}
+
+.nav .title span{
+    display: block;
+    height: 60px;
+    width: 60px;
+    
+    background-color: #333;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    line-height: 60px;
+    text-align: center;
+}
+
+.main .left{
+    width: 40%;
+    
+    height: 100%;
+    float: left;
+    padding: 0 20px;
+}
+
+.main .left p{
+    font-size: 36px;
+    font-weight: 400;
+    margin-top: 60px;
+}
+
+.main .left img{
+    width: 100%;
+    margin-top: 60px;
+}
+
+.main .right{
+    width: 60%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+
+.main .right img{
+    margin-top: 20px;
+    width: 100%;
+}

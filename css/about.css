@@ -1,11 +1,11 @@
 .info img{
-	width: 400px;
-    height: 500px;
-	margin-bottom: 20px;
+	width: 300px !important;
+    /* height: 500px; */
+	margin-bottom: 20px !important;
 }
 
 .info{
-	width: 45%;
+	width: 750px;
 	float: left;
 }
 
@@ -15,13 +15,14 @@
 }
 
 .image{
-    width: 29%;
+    width: 350px;
     overflow: hidden;
     float: left;
     position: relative;
     height: 100%;
+    margin-left: 20px;
 }
 
 .image img{
-	width: 100%;
+	width: 350px;
 }

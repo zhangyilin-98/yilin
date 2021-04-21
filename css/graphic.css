@@ -33,7 +33,7 @@
 }
 
 .main .left p{
-    font-size: 36px;
+    font-size: 28px;
     font-weight: 400;
     margin-top: 60px;
 }
@@ -52,5 +52,6 @@
 
 .main .right img{
     margin-top: 20px;
-    width: 100%;
+    width: 750px;
+    max-height:100%;
 }

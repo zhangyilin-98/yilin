@@ -12,14 +12,14 @@
 .info img{
     float: left;
     display: block;
-    width: 55%;
+    width: 40%;
 }
 
 .info ul{
     float: left;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 100px;
-    width: 40%;
+    width: 60%;
 }
 
 .info ul li{
